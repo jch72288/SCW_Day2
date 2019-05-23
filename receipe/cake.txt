@@ -2,4 +2,6 @@ brocolli
 flour
 sugar
 milk 
+chocolate
+banana
 
